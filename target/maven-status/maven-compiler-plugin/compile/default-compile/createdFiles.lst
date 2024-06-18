@@ -1,0 +1,10 @@
+com\tss\ProjektTSSLukaszczykMichal\ProjektTssLukaszczykMichalApplication.class
+com\tss\config\SecurityConfig.class
+com\tss\controllers\AppControler.class
+com\tss\controllers\UserController.class
+com\tss\ProjektTSSLukaszczykMichal\ServletInitializer.class
+com\tss\components\SessionComponent.class
+com\tss\entities\Users.class
+com\tss\controllers\UserRestController.class
+com\tss\services\UserService.class
+com\tss\repositories\UserRepository.class
